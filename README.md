@@ -1,18 +1,18 @@
-# 🏨 Hotel Booking System
+#  Zanadisia Grand Hotel
 
-Sistem Hotel Booking merupakan aplikasi berbasis web yang dikembangkan menggunakan Laravel Framework untuk mempermudah proses pemesanan kamar hotel secara online. Aplikasi ini menyediakan fitur bagi pelanggan untuk melakukan reservasi kamar, mengunggah bukti pembayaran, melihat status reservasi, memberikan ulasan, serta bagi admin untuk mengelola data kamar dan mengonfirmasi reservasi.
+Zanadisia Grand Hotel merupakan aplikasi berbasis web yang dikembangkan menggunakan Laravel Framework untuk mempermudah proses pemesanan kamar hotel secara online. Aplikasi ini menyediakan fitur bagi pelanggan untuk melakukan reservasi kamar, mengunggah bukti pembayaran, melihat status reservasi, memberikan ulasan, serta bagi admin untuk mengelola data kamar dan mengonfirmasi reservasi.
 
 ---
 
-# 📖 Deskripsi Project
+#  Deskripsi Project
 
 Project ini dibuat sebagai tugas mata kuliah Pemrograman Web Lanjut A2 dengan tujuan membangun sistem reservasi hotel yang lebih efektif dan efisien. Seluruh data tersimpan pada database MySQL sehingga memudahkan pengelolaan informasi kamar, reservasi, pembayaran, dan pengguna.
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 👤 Fitur User
+###  Fitur User
 
 **Registrasi akun**
 Pengguna dapat membuat akun baru dengan mengisi data diri yang diperlukan agar dapat mengakses layanan pemesanan kamar hotel.
@@ -41,7 +41,7 @@ Pengguna akan mendapatkan informasi mengenai perubahan status reservasi setelah 
 **Memberikan ulasan hotel**
 Pengguna dapat memberikan penilaian dan ulasan terhadap layanan hotel setelah melakukan reservasi.
 
-### 👨‍💼 Fitur Admin
+###  Fitur Admin
 
 **Login Admin**
 Admin dapat masuk ke halaman khusus admin untuk mengelola seluruh aktivitas pada sistem hotel booking.
@@ -69,7 +69,7 @@ Admin dapat melihat dan mengelola ulasan yang diberikan pelanggan sebagai bahan 
 
 ---
 
-# 🛠 Teknologi yang Digunakan
+#  Tools yang Digunakan
 
 - Laravel
 - PHP
@@ -83,7 +83,7 @@ Admin dapat melihat dan mengelola ulasan yang diberikan pelanggan sebagai bahan 
 
 ---
 
-# 📂 Struktur Project
+#  Struktur Project
 
 ```
 hotel-booking
@@ -92,7 +92,7 @@ hotel-booking
 ├── bootstrap
 ├── config
 ├── database
-├── public|
+├── public
 ├── resources
 ├── routes
 ├── storage
@@ -103,7 +103,7 @@ hotel-booking
 
 ---
 
-# ⚙️ Cara Instalasi
+#  Cara Instalasi
 
 ## 1. Clone Repository
 
@@ -176,7 +176,7 @@ http://127.0.0.1:8000
 
 ---
 
-# 🗄 Database
+#  Database
 
 Nama Database
 
@@ -195,7 +195,7 @@ Tabel utama:
 
 ---
 
-# 📸 Tampilan Sistem
+#  Tampilan Sistem
 
 ## Halaman Login
 
@@ -257,7 +257,7 @@ Tabel utama:
 
 ---
 
-# 👥 Tim Pengembang
+#  Tim Pengembang
 
 nama anggota kelompok 4
 
@@ -267,12 +267,12 @@ nama anggota kelompok 4
 
 ---
 
-# 📄 Lisensi
+#  Lisensi
 
 Project ini dibuat untuk keperluan pembelajaran dan tugas perkuliahan Pemrograman Web Lanjut A2.
 
 ---
 
-# ❤️ Terima Kasih
+#  Terima Kasih
 
 Terima kasih telah mengunjungi repository ini. Semoga project ini bermanfaat sebagai referensi dalam pengembangan aplikasi reservasi hotel menggunakan Laravel.
