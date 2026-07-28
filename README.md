@@ -12,7 +12,7 @@ Project ini dibuat sebagai tugas mata kuliah Pemrograman Web Lanjut A2 dengan tu
 
 ## ✨ Fitur Utama
 
- Fitur User
+### 👤 Fitur User
 
 **Registrasi akun**
 Pengguna dapat membuat akun baru dengan mengisi data diri yang diperlukan agar dapat mengakses layanan pemesanan kamar hotel.
@@ -41,7 +41,7 @@ Pengguna akan mendapatkan informasi mengenai perubahan status reservasi setelah 
 **Memberikan ulasan hotel**
 Pengguna dapat memberikan penilaian dan ulasan terhadap layanan hotel setelah melakukan reservasi.
 
-Fitur Admin
+### 👨‍💼 Fitur Admin
 
 **Login Admin**
 Admin dapat masuk ke halaman khusus admin untuk mengelola seluruh aktivitas pada sistem hotel booking.
