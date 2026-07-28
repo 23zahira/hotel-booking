@@ -201,7 +201,7 @@ Tabel utama:
 
 ### Pembayaran 2
 
-![Halaman Pembayaran 2](images/pembayaran(2).png)
+![Halaman Pembayaran 2](images/pembayaran (2).png)
 
 ---
 
@@ -213,7 +213,7 @@ Tabel utama:
 
 ### Notifikasi 2
 
-![Halaman Notifikasi 2](images/notifikasi(2).png)
+![Halaman Notifikasi 2](images/notifikasi (2).png)
 
 ---
 
@@ -235,7 +235,7 @@ nama anggota kelompok 4
 
 # 📄 Lisensi
 
-Project ini dibuat untuk keperluan pembelajaran dan tugas perkuliahanPemrograman Web Lanjut A2.
+Project ini dibuat untuk keperluan pembelajaran dan tugas perkuliahan Pemrograman Web Lanjut A2.
 
 ---
 
