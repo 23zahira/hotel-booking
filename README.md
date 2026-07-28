@@ -10,28 +10,62 @@ Project ini dibuat sebagai tugas mata kuliah Pemrograman Web Lanjut A2 dengan tu
 
 ---
 
-# ✨ Fitur Utama
+## ✨ Fitur Utama
 
-## Fitur User
-- Registrasi akun
-- Login dan Logout
-- Melihat daftar kamar
-- Mencari kamar berdasarkan tanggal check-in dan check-out
-- Melakukan reservasi kamar
-- Upload bukti pembayaran
-- Melihat status reservasi
-- Menerima notifikasi konfirmasi reservasi
-- Memberikan ulasan hotel
+ Fitur User
 
-## Fitur Admin
-- Login Admin
-- Dashboard Admin
-- Mengelola data kamar (Tambah, Edit, Hapus)
-- Mengelola data reservasi
-- Mengonfirmasi reservasi pelanggan
-- Mengubah status kamar secara otomatis
-- Melihat data pembayaran
-- Mengelola ulasan pelanggan
+**Registrasi akun**
+Pengguna dapat membuat akun baru dengan mengisi data diri yang diperlukan agar dapat mengakses layanan pemesanan kamar hotel.
+
+**Login dan Logout**
+Pengguna dapat masuk ke dalam sistem menggunakan akun yang telah terdaftar dan dapat keluar dari sistem setelah selesai menggunakan aplikasi.
+
+**Melihat daftar kamar**
+Pengguna dapat melihat informasi kamar yang tersedia, termasuk nama kamar, harga, fasilitas, kapasitas, dan foto kamar.
+
+**Mencari kamar berdasarkan tanggal check-in dan check-out**
+Pengguna dapat mencari ketersediaan kamar berdasarkan tanggal menginap sehingga sistem hanya menampilkan kamar yang dapat dipesan.
+
+**Melakukan reservasi kamar**
+Pengguna dapat melakukan pemesanan kamar dengan mengisi data reservasi sesuai kebutuhan seperti tanggal menginap dan informasi tamu.
+
+**Upload bukti pembayaran**
+Pengguna dapat mengunggah bukti pembayaran sebagai proses konfirmasi pembayaran kepada pihak admin.
+
+**Melihat status reservasi**
+Pengguna dapat melihat perkembangan status pemesanan kamar, seperti menunggu konfirmasi, diterima, atau ditolak oleh admin.
+
+**Menerima notifikasi konfirmasi reservasi**
+Pengguna akan mendapatkan informasi mengenai perubahan status reservasi setelah admin melakukan pengecekan dan konfirmasi.
+
+**Memberikan ulasan hotel**
+Pengguna dapat memberikan penilaian dan ulasan terhadap layanan hotel setelah melakukan reservasi.
+
+Fitur Admin
+
+**Login Admin**
+Admin dapat masuk ke halaman khusus admin untuk mengelola seluruh aktivitas pada sistem hotel booking.
+
+**Dashboard Admin**
+Admin dapat melihat ringkasan informasi sistem seperti jumlah kamar, data reservasi, pembayaran, dan aktivitas pengguna.
+
+**Mengelola data kamar (Tambah, Edit, Hapus)**
+Admin dapat menambahkan data kamar baru, memperbarui informasi kamar, serta menghapus data kamar yang sudah tidak digunakan.
+
+**Mengelola data reservasi**
+Admin dapat melihat seluruh data pemesanan kamar yang dilakukan oleh pengguna melalui sistem.
+
+**Mengonfirmasi reservasi pelanggan**
+Admin dapat melakukan pengecekan reservasi dan memberikan keputusan berupa konfirmasi atau penolakan pemesanan.
+
+**Mengubah status kamar secara otomatis**
+Sistem akan memperbarui status ketersediaan kamar berdasarkan reservasi yang telah dikonfirmasi sehingga kamar yang sudah dipesan tidak dapat dipilih kembali.
+
+**Melihat data pembayaran**
+Admin dapat melihat informasi pembayaran serta memeriksa bukti pembayaran yang dikirimkan oleh pengguna.
+
+**Mengelola ulasan pelanggan**
+Admin dapat melihat dan mengelola ulasan yang diberikan pelanggan sebagai bahan evaluasi pelayanan hotel.
 
 ---
 
