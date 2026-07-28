@@ -201,7 +201,7 @@ Tabel utama:
 
 ### Pembayaran 2
 
-![Halaman Pembayaran 2](images/pembayaran (2).png)
+![Halaman Pembayaran 2](images/pembayaran-2.png)
 
 ---
 
@@ -213,7 +213,7 @@ Tabel utama:
 
 ### Notifikasi 2
 
-![Halaman Notifikasi 2](images/notifikasi (2).png)
+![Halaman Notifikasi 2](images/notifikasi-2.png)
 
 ---
 
