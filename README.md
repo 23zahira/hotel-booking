@@ -9,6 +9,8 @@ Zanadisia Grand Hotel merupakan aplikasi berbasis web yang dikembangkan mengguna
 Project ini dibuat sebagai tugas mata kuliah Pemrograman Web Lanjut A2 dengan tujuan membangun sistem reservasi hotel yang lebih efektif dan efisien. Seluruh data tersimpan pada database MySQL sehingga memudahkan pengelolaan informasi kamar, reservasi, pembayaran, dan pengguna.
 
 ---
+# Entity Relationship Diagram
+![Entity Relationship Diagram](images/ERD.png)
 
 ##  Fitur Utama
 
